@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "volume": 0.15,
+  "tone": 0.1,
+  "dockEnabled": true,
+  "dockPosition": {
+    "x": 711,
+    "y": 152
+  }
+}
