@@ -3,7 +3,7 @@
   "name": "Nuance - Excalidraw Pen Sound",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Satisfying paper writing sounds for digital handwriting on Excalidraw canvases in Obsidian.",
+  "description": "Satisfying paper writing sounds for digital handwriting on Excalidraw canvases.",
   "author": "Nuance",
   "authorUrl": "https://github.com/theanh97",
   "isDesktopOnly": false
